@@ -1,2 +1,2 @@
-# Whatsapp
+# WhatsApp
 Reliable messaging ...
